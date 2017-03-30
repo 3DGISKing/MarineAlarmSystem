@@ -1,0 +1,39 @@
+<RCC>
+    <qresource prefix="/images">
+        <file>images/themes/default/mActionPan.svg</file>
+        <file>images/themes/default/mActionZoomIn.svg</file>
+        <file>images/themes/default/mActionZoomOut.svg</file>
+        <file>images/themes/default/mActionZoomFullExtent.svg</file>
+        <file>images/themes/default/mActionZoomLast.svg</file>
+        <file>images/themes/default/mActionZoomNext.svg</file>
+        <file>images/themes/default/layer.svg</file>
+        <file>images/themes/default/help.svg</file>
+        <file>images/themes/default/exit.svg</file>
+        <file>images/themes/default/marinsystem.svg</file>
+        <file>images/themes/default/measure.svg</file>
+        <file>images/themes/default/navigate.svg</file>
+        <file>images/themes/default/tittle.svg</file>
+        <file>images/themes/default/mActionMeasure.svg</file>
+        <file>images/themes/default/mActionMeasureAngle.svg</file>
+        <file>images/themes/default/mActionMeasureArea.svg</file>
+        <file>images/splash.svg</file>
+        <file>images/themes/default/setting.svg</file>
+        <file>images/logo/alarmMark-0000.png</file>
+        <file>images/logo/alarmMark-0001.png</file>
+        <file>images/logo/alarmMark-0002.png</file>
+        <file>images/logo/alarmMark-0003.png</file>
+        <file>images/logo/alarmMark-0004.png</file>
+        <file>images/logo/alarmMark-0005.png</file>
+        <file>images/logo/alarmMark-0006.png</file>
+        <file>images/logo/alarmMark-0007.png</file>
+        <file>images/logo/alarmMark-0008.png</file>
+        <file>images/logo/alarmMark-0009.png</file>
+        <file>images/logo/alarmMark-0010.png</file>
+        <file>images/logo/alarmMark-0011.png</file>
+        <file>images/logo/alarmMark-0012.png</file>
+        <file>images/logo/alarmMark-0013.png</file>
+        <file>images/logo/alarmMark-0014.png</file>
+        <file>images/themes/default/boat.svg</file>
+        <file>images/themes/default/history.svg</file>
+    </qresource>
+</RCC>
